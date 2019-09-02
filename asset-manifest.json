@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Week7_chatroom/static/css/main.498d002a.chunk.css",
+    "main.js": "/Week7_chatroom/static/js/main.7e32467f.chunk.js",
+    "main.js.map": "/Week7_chatroom/static/js/main.7e32467f.chunk.js.map",
+    "runtime~main.js": "/Week7_chatroom/static/js/runtime~main.fc4d6b19.js",
+    "runtime~main.js.map": "/Week7_chatroom/static/js/runtime~main.fc4d6b19.js.map",
+    "static/js/2.5c611df9.chunk.js": "/Week7_chatroom/static/js/2.5c611df9.chunk.js",
+    "static/js/2.5c611df9.chunk.js.map": "/Week7_chatroom/static/js/2.5c611df9.chunk.js.map",
+    "index.html": "/Week7_chatroom/index.html",
+    "precache-manifest.a4dec04b30ed17628b9d8b18776c8928.js": "/Week7_chatroom/precache-manifest.a4dec04b30ed17628b9d8b18776c8928.js",
+    "service-worker.js": "/Week7_chatroom/service-worker.js",
+    "static/css/main.498d002a.chunk.css.map": "/Week7_chatroom/static/css/main.498d002a.chunk.css.map",
+    "static/media/Component 6-1.svg": "/Week7_chatroom/static/media/Component 6-1.b84bf966.svg",
+    "static/media/Logo.svg": "/Week7_chatroom/static/media/Logo.14d27071.svg",
+    "static/media/Path1.svg": "/Week7_chatroom/static/media/Path1.3278ef47.svg",
+    "static/media/Path2.svg": "/Week7_chatroom/static/media/Path2.b8fb9549.svg",
+    "static/media/Path3.svg": "/Week7_chatroom/static/media/Path3.50484731.svg",
+    "static/media/Path4.svg": "/Week7_chatroom/static/media/Path4.31ddd4d9.svg"
+  }
+}
